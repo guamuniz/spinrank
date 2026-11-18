@@ -1,0 +1,35 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependencies and generated files
+/vendor/
+/node_modules/
+
+# Runtime data, uploads and logs
+/uploads/
+/storage/
+/logs/
+*.log
+
+# Backups and database exports
+*.sql.gz
+*.dump
+*.bak
+*.backup
+*.zip
+*.tar
+*.tar.gz
+
+# Local/editor/OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
