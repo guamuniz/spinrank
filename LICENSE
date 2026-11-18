@@ -2,35 +2,44 @@ SPINRANK — PORTFOLIO DEMONSTRATION LICENSE
 
 Copyright (c) 2026 Gustavo Muniz. All rights reserved.
 
-This repository and its contents are made publicly available solely for
-portfolio viewing, technical review, and evaluation by recruiters, clients,
-and other interested parties.
+PURPOSE
 
-NO LICENSE FOR USE
+This repository is published as a portfolio demonstration. It may be viewed
+and evaluated by recruiters, clients, and other interested parties.
 
-Except for the limited right to view the materials through the GitHub
-interface for the purposes stated above, no rights are granted to use, run,
-execute, reproduce, copy, modify, adapt, merge, publish, distribute,
-sublicense, make available, or create derivative works from this repository
-or any part of it, whether for commercial or non-commercial purposes.
+PERMITTED NON-COMMERCIAL EVALUATION
 
-COMMERCIAL USE PROHIBITED
+You are granted a limited, revocable, non-exclusive, non-transferable
+permission to download and run the materials solely for personal,
+non-commercial evaluation, study, and review of the project.
 
-Commercial use is expressly prohibited without prior written permission
-from the copyright holder. This includes, without limitation, using the
-software or its source code in a business, product, service, paid project,
-consulting engagement, hosted offering, or revenue-generating activity.
+RESTRICTIONS
+
+Without prior written permission from the copyright holder, you may not:
+
+- use the materials for any commercial purpose, including in a business,
+  product, service, paid project, consulting engagement, hosted offering,
+  or revenue-generating activity;
+- deploy or provide the software as a production service;
+- redistribute, sublicense, sell, rent, or otherwise make the materials
+  available to third parties;
+- publish modified or derivative versions of the materials;
+- remove or alter copyright or license notices.
+
+Commercial use is prohibited, whether direct or indirect. Any permission
+beyond the limited non-commercial evaluation grant must be obtained in
+writing from the copyright holder.
 
 NO WARRANTY
 
-The materials are provided "AS IS", without warranty of any kind, express or
-implied. The copyright holder shall not be liable for any claim, damages, or
-other liability arising from the materials or their use.
+The materials are provided "AS IS", without warranty of any kind, express
+or implied. The copyright holder shall not be liable for any claim, damages,
+or other liability arising from the materials or their use.
 
 PERMISSION REQUESTS
 
-For permissions beyond portfolio viewing and evaluation, contact the
-copyright holder through the GitHub profile associated with this repository.
+For permissions beyond those expressly granted above, contact the copyright
+holder through the GitHub profile associated with this repository.
 
-This notice is a custom restrictive notice, not an OSI-approved open-source
+This is a custom restrictive license, not an OSI-approved open-source
 license. Public visibility does not place the project in the public domain.
