@@ -22,6 +22,10 @@ O projeto busca simplificar a rotina de um clube de tênis, conectando jogadores
 
 O escopo e o estado de implementação de cada módulo serão documentados em [docs/funcionalidades.md](docs/funcionalidades.md). Nem toda funcionalidade deve ser interpretada como certificada ou pronta para operação comercial.
 
+## Galeria de telas
+
+Veja as capturas da interface em [docs/galeria.md](docs/galeria.md). As telas utilizam dados fictícios e são apresentadas exclusivamente para fins de portfólio.
+
 ## Tecnologias
 
 - PHP 8+
@@ -50,7 +54,7 @@ Não use dados pessoais reais em testes ou demonstrações. A aplicação requer
 ```text
 .
 ├── docs/                 # Documentação pública do projeto
-├── screenshots/          # Capturas sanitizadas da interface (quando adicionadas)
+├── screenshots/          # Capturas demonstrativas da interface
 ├── demo/                 # Exemplos e dados fictícios (quando adicionados)
 ├── LICENSE
 └── README.md
