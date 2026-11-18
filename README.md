@@ -6,6 +6,8 @@ O SpinRank é um projeto de desenvolvimento de produto que reúne regras de pont
 
 > **Demonstração de portfólio — uso comercial não autorizado.** Consulte [LICENSE](LICENSE) antes de utilizar qualquer conteúdo deste repositório.
 
+> **Disponibilidade do código:** este repositório disponibiliza documentação técnica e capturas de tela do SpinRank. O código-fonte completo e os ambientes de execução permanecem privados.
+
 ## Visão geral
 
 O projeto busca simplificar a rotina de um clube de tênis, conectando jogadores, administração, quadras, desafios e acompanhamento de desempenho em um só ambiente.
@@ -55,7 +57,6 @@ Não use dados pessoais reais em testes ou demonstrações. A aplicação requer
 .
 ├── docs/                 # Documentação pública do projeto
 ├── screenshots/          # Capturas demonstrativas da interface
-├── demo/                 # Exemplos e dados fictícios (quando adicionados)
 ├── LICENSE
 └── README.md
 ```
@@ -70,7 +71,9 @@ Projeto em evolução. Este repositório é mantido separadamente do ambiente pr
 
 **SpinRank** is a portfolio demonstration of a tennis-club management platform, covering player administration, court scheduling, challenges, match results, ranking rules and an AI-assisted interface.
 
-This repository is provided for portfolio review and evaluation only. **Commercial use is not authorized.** See [LICENSE](LICENSE). The project is evolving and must not be treated as a production-ready distribution.
+This repository provides technical documentation and interface screenshots only. The complete source code and runtime environments remain private.
+
+This repository is provided for portfolio review and evaluation only. **Commercial use is not authorized.** See [LICENSE]. The project is evolving and must not be treated as a production-ready distribution.
 
 ---
 
